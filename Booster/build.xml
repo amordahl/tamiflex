@@ -14,8 +14,8 @@
             destdir="bin"
             debug="true"
             deprecation="on"
-        	source="1.5"
-        	target="1.5"
+        	source="21"
+        	target="21"
         	fork="true"
         >
         	<classpath>
